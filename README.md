@@ -68,6 +68,7 @@ venv\Scripts\activate
 ## 📸 Sample Output
 
 <img width="2136" height="1390" alt="image" src="https://github.com/user-attachments/assets/381287e1-3ac6-46b4-8199-dd8f9361b943" />
+<img width="1592" height="946" alt="image" src="https://github.com/user-attachments/assets/293ffb76-f275-4175-ad64-be500b121d81" />
 
 
 Example:
